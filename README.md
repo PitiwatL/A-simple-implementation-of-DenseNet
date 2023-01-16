@@ -8,8 +8,8 @@ The result for the first 5 epochs of training:
 | Original DenseNet121 without ImageNet weights  | ...  |
 | Original DenseNet121 with the fixed ImageNet weights  | 61.15  |
 | Original DenseNet121 with the adjustable ImageNet weights  | 82.06  |
-| Implementation of DenseNet121 without ImageNet weights  | ...  |
-| Implementation of DenseNet121 with the adjustable ImageNet weights  | ...  |
+| Implemented DenseNet121 without ImageNet weights  | ...  |
+| Implemented DenseNet121 with the adjustable ImageNet weights  | ...  |
 | Custom DenseNet121 witout ImageNet weights  | ...  |
 
 

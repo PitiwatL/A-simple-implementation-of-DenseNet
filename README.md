@@ -6,7 +6,7 @@ The result for the first 5 epochs of training:
 | Model  | Result (%) |
 | ------------- | ------------- |
 | Original DenseNet121 without ImageNet weights  | ...  |
-| Original DenseNet121 with the fixed ImageNet weights  | ...  |
+| Original DenseNet121 with the fixed ImageNet weights  | 61.15  |
 | Original DenseNet121 with the adjustable ImageNet weights  | ...  |
 | Implementation of DenseNet121 without ImageNet weights  | ...  |
 | Implementation of DenseNet121 with the adjustable ImageNet weights  | ...  |

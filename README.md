@@ -1,12 +1,16 @@
 # A-simple-implementation-of-DenseNet121
 
 This is a very simple implementation of DenseNet121 where one could modify some layers. To make sure that this implementation is correct, I try to test the result on CIFAR10.
-The result for first 5 epochs of training:
+The result for the first 5 epochs of training:
 
 | Model  | Result (%) |
 | ------------- | ------------- |
-| Original DenseNet121 with the fixed ImageNet weight  | ...  |
-| Original DenseNet121 with the adjustable ImageNet weight  | ...  |
+| Original DenseNet121 without ImageNet weights  | ...  |
+| Original DenseNet121 with the fixed ImageNet weights  | ...  |
+| Original DenseNet121 with the adjustable ImageNet weights  | ...  |
+| Implementation of DenseNet121 without ImageNet weights  | ...  |
+| Implementation of DenseNet121 with the adjustable ImageNet weights  | ...  |
+| Custom DenseNet121 witout ImageNet weights  | ...  |
 
 
 

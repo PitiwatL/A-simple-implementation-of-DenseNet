@@ -4,6 +4,7 @@ This is a very simple implementation of DenseNet121 where one could modify some 
 The result for first 5 epochs of training:
 
 | Model  | Result (%) |
+| ------------- | ------------- |
 | Original DenseNet121 with the fixed ImageNet weight  | ...  |
 | Original DenseNet121 with the adjustable ImageNet weight  | ...  |
 

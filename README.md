@@ -13,7 +13,7 @@ The result for the first 5 epochs of training:
 | Custom DenseNet121 witout ImageNet weights  | ...  |
 
 
-![Dense Block](https://user-images.githubusercontent.com/81637352/212792833-f42d417c-e9f4-429e-b00d-dbf2e7be8a05.jpg)
-
 The ImageNet weights of a pre-trained DenseNet 121 can be downloaded using the keras-team's link:
 https://github.com/keras-team/keras-applications/releases/download/densenet/densenet121_weights_tf_dim_ordering_tf_kernels_notop.h5
+
+![Screenshot 2023-01-17 093012](https://user-images.githubusercontent.com/81637352/212796754-d6d67d19-bbec-4bf6-a4ba-c13388ecfb17.jpg)

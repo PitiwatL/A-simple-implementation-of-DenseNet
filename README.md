@@ -18,3 +18,7 @@ https://github.com/keras-team/keras-applications/releases/download/densenet/dens
 
 ## The Architecture of DenseNet121
 ![Screenshot 2023-01-17 093012](https://user-images.githubusercontent.com/81637352/212796754-d6d67d19-bbec-4bf6-a4ba-c13388ecfb17.jpg)
+
+
+## Custom DenseNet121
+![Screenshot 2023-01-17 180419](https://user-images.githubusercontent.com/81637352/212883026-b12715e1-3eba-4438-b10a-d0e41f1c38ab.jpg)

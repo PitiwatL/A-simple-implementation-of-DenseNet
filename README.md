@@ -10,7 +10,7 @@ The result for the first 5 epochs of training:
 | Original DenseNet121 with the adjustable ImageNet weights  | 82.06  |
 | Implemented DenseNet121 without ImageNet weights (20 epochs) | 64.33  |
 | Implemented DenseNet121 with the adjustable ImageNet weights  | 82.85  |
-| Custom DenseNet121 witout ImageNet weights  | ...  |
+| Custom DenseNet121 witout ImageNet weights  | 64.60  |
 
 
 The ImageNet weights of a pre-trained DenseNet 121 can be downloaded using the keras-team's link:

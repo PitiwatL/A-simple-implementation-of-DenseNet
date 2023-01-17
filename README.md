@@ -16,7 +16,5 @@ The result for the first 5 epochs of training:
 The ImageNet weights of a pre-trained DenseNet 121 can be downloaded using the keras-team's link:
 https://github.com/keras-team/keras-applications/releases/download/densenet/densenet121_weights_tf_dim_ordering_tf_kernels_notop.h5
 
-element {
-  DenseNet121: 75;
-}
+## The Architecture of DenseNet121
 ![Screenshot 2023-01-17 093012](https://user-images.githubusercontent.com/81637352/212796754-d6d67d19-bbec-4bf6-a4ba-c13388ecfb17.jpg)
